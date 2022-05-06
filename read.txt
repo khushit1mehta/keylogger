@@ -1,1 +1,6 @@
 this program is used to check all the key strokes activity of a user 
+it is written in jupyter notebook 
+the main usable file if logger.ipynb file and the 
+the blaner file conttains various function which can be used for different actionbs performend by the user
+i have used an input library pynput for smooth operation
+thanks for visiting 
